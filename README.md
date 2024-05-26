@@ -6,7 +6,8 @@
 Ја добив групата на код 5
 
 ### Control Flow Graph
-![SI_Lab_2 drawio](https://raw.githubusercontent.com/AndrejT03/SI_2024_lab2_223255/e897ea14c47d5f4d622cb6915e779c78dd59f5b1/SI_Lab_2.drawio.png?token=BHKMB7MP5IPFN5Q7HHC7KKLGKM7YY)
+![SI_Lab_2 drawio](https://github.com/AndrejT03/SI_2024_lab2_223255/assets/164937981/57156f29-4209-4841-8b75-7ee95b98bb8b)
+
 Легенда:
 - Жолти јазол: If услов
 - Син јазол: For циклус
