@@ -16,9 +16,8 @@
 
 ### Тест случаи според критериумот Every statement
 
-@Test
+    @Test
     public void EveryBranchTest() {
-
         List<Item> allItems1 = new ArrayList<>();
         assertTrue(SILab2.checkCart(allItems1, 0));
 
@@ -53,9 +52,8 @@
 
 ## Тест случаи според критериумот Multiple Condition за if (item.getPrice() > 300 && item.getDiscount() > 0 && item.getBarcode().charAt(0) == '0')
 
-@Test
+    @Test
     public void MultipleConditionTest() {
-
         List<Item> items1 = new ArrayList<>();
         items1.add(new Item("Item1", "012345", 100, 1));
         assertTrue(SILab2.checkCart(items1, 1000));
