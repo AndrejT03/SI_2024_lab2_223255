@@ -3,8 +3,8 @@
 ## Андреј Трајковски, бр.на индекс 223255
 
 ### Control Flow Graph
+![Pojasnuvanje](https://github.com/AndrejT03/SI_2024_lab2_223255/assets/164937981/3ac9d634-453c-4f83-87b2-ef55ef0615e2)
 ![SI_Lab_2 drawio](https://github.com/AndrejT03/SI_2024_lab2_223255/assets/164937981/57156f29-4209-4841-8b75-7ee95b98bb8b)
-
 Легенда:
 - Жолти јазол: If услов
 - Син јазол: For циклус
